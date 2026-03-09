@@ -10,7 +10,7 @@ Ce projet a été développé par **Cyprien Quettier** dans le cadre du Master *
 
 ## 🚀 Accès direct à l'application
 L'outil est hébergé sur Streamlit Cloud et accessible ici :
-👉 **[https://a4846m75nyadkvjapayw22.streamlit.app/](https://ecoalim.streamlit.app/)**
+👉 **[https://ecoalim.streamlit.app/](https://ecoalim.streamlit.app/)**
 
 ---
 
